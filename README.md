@@ -1,4 +1,5 @@
-# Mr.SuS.60 ![image_cropped (1) (2)](https://github.com/user-attachments/assets/539e94e6-c9e1-46ed-ba7e-0c59439f4216)
+# Mr.SuS.60 ![imag](https://github.com/user-attachments/assets/d732ef91-67ec-4a3d-a973-88b0fa4e08ee)
+
 
 
 
