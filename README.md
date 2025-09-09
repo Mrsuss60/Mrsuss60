@@ -8,7 +8,7 @@
 ---
 
 - [GamePad 36ster](https://github.com/Mrsuss60/GamePad-360-Tester)  
-  Gamepad tester app for Xbox 360 console
+  Gamepad tester app for the Xbox 360 console
 
 ---
 
@@ -18,6 +18,11 @@
   Cool free camera script that lets you take beautiful in-game pictures 
 
 - [RDR FOV Changer](https://www.nexusmods.com/reddeadredemption/mods/431)  
-  Lets you change the gameplay camera's Field of View.
+  Let's you change the gameplay camera's Field of View.
 
 - [Another Script](https://www.nexusmods.com/reddeadredemption/mods/481)
+
+**Just Cause 3 Script on PC:**
+
+- [JustC3-FOVChanger](https://www.nexusmods.com/justcause3/mods/36)<br>
+  Change Just Cause 3 Gameplay camera FOV
