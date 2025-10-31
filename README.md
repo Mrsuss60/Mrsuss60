@@ -7,8 +7,10 @@
 
 ---
 
-- [GamePad 36ster](https://github.com/Mrsuss60/GamePad-360-Tester)  
+- [GamePad 36ster](https://github.com/Mrsuss60/GamePad-360-Tester) 
   Gamepad tester app for the Xbox 360 console
+  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L61NOIEY)
 
 ---
 
