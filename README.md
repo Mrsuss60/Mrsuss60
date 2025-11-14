@@ -27,4 +27,9 @@
 **Just Cause 3 Script on PC:**
 
 - [JustC3-FOVChanger](https://www.nexusmods.com/justcause3/mods/36)<br>
-  Change Just Cause 3 Gameplay camera FOV
+  Change Just Cause 3's Gameplay camera FOV
+
+**The Crew Script on PC:**
+
+- [TheCrewFOV](https://www.nexusmods.com/thecrew/mods/6)<br>
+ A Mod To Change The Crew's Gameplay Camera Field of View 
