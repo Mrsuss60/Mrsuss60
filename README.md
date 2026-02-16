@@ -31,3 +31,8 @@
 **The Crew Script on PC:**
 - [TheCrewFOV](https://www.nexusmods.com/thecrew/mods/6)<br>
  A Mod To Change The Crew's Gameplay Camera Field of View 
+
+**Metro Redux on PC:**
+- [Metro Reduxed FOV](https://www.nexusmods.com/metro2033redux/mods/37)<br>
+ A Mod To Change both world FOV and viewmodel FOV for metro redux
+ 
